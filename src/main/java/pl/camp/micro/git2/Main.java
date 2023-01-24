@@ -7,5 +7,7 @@ public class Main {
         System.out.println("zmiany !!");
 
         System.out.println("cos");
+
+        System.out.println("cos 2");
     }
 }
