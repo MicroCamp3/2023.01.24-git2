@@ -5,5 +5,7 @@ public class Main {
         System.out.println("kod !!");
 
         System.out.println("zmiany !!");
+
+        System.out.println("cos");
     }
 }
