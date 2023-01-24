@@ -13,5 +13,7 @@ public class Main {
         System.out.println("wszystko dziala");
 
         System.out.println("konflikt2");
+
+        System.out.println("konflikt1");
     }
 }
