@@ -11,5 +11,7 @@ public class Main {
         System.out.println("cos 2");
 
         System.out.println("wszystko dziala");
+
+        System.out.println("konflikt1");
     }
 }
